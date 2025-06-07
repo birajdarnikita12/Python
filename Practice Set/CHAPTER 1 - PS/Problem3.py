@@ -9,5 +9,5 @@ directory_path = '/Tech/Python'
 # List all entries in the directory
 entries = os.listdir(directory_path)
    
-for entry in entries:
-    print(entry)
+for e in entries:
+    print(e)
